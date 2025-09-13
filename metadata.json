@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Trending Thumbnail Flow",
+  "description": "An application that fetches and displays a continuous, flowing gallery of thumbnails from YouTube's trending videos. Users can view and download their favorite thumbnails.",
+  "requestFramePermissions": []
+}
